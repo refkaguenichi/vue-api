@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Pullover",
+      "description": "Find your new feline friend at this event.",
+      "image": "https://img.ltwebstatic.com/images3_pi/2020/11/04/1604472145838b3d9188d3cc267e0c6ed14e73ac57_thumbnail_600x.webp",
+    },
+    {
+      "id": 2,
+      "title": "Pullover",
+      "description": "Find your new feline friend at this event.",
+      "image": "https://img.ltwebstatic.com/images3_pi/2020/11/04/1604472145838b3d9188d3cc267e0c6ed14e73ac57_thumbnail_600x.webp",
+    },
+    {
+      "id": 3,
+      "title": "Pullover",
+      "description": "Find your new feline friend at this event.",
+      "image": "https://img.ltwebstatic.com/images3_pi/2020/11/04/1604472145838b3d9188d3cc267e0c6ed14e73ac57_thumbnail_600x.webp",
+    },
+    {
+      "id": 4,
+      "title": "Pullover",
+      "description": "Find your new feline friend at this event.",
+      "image": "https://img.ltwebstatic.com/images3_pi/2020/11/04/1604472145838b3d9188d3cc267e0c6ed14e73ac57_thumbnail_600x.webp",
+    },
+    {
+      "id": 5,
+      "title": "Pullover",
+      "description": "Find your new feline friend at this event.",
+      "image": "https://img.ltwebstatic.com/images3_pi/2020/11/04/1604472145838b3d9188d3cc267e0c6ed14e73ac57_thumbnail_600x.webp",
+    },
+  ]
+}
